@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Open-source enthusiast! Apps, toolkits and games developer.
+
+## 𝗠𝘆 s𝘁𝗮𝘁𝘀
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=classerase&show_icons=true&hide_border=true)
+
+### Show some ❤️ by starring my repos!
+
+<!-- based on https://raw.githubusercontent.com/classerase/classerase/master/README.md -->
+
 <!--
 **PeyTy/PeyTy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

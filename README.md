@@ -2,7 +2,7 @@
 
 Open-source enthusiast! Apps, toolkits and games developer.
 
-## 𝗠𝘆 s𝘁𝗮𝘁𝘀
+## My status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeyTy&show_icons=true&hide_border=true)
 

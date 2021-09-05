@@ -6,7 +6,7 @@ Open-source enthusiast! Apps, toolkits and games developer.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeyTy&show_icons=true&hide_border=true)
 
-### Show some ❤️ by starring my repos!
+### Show some ❤️ by :star: my repos!
 
 <!-- based on https://raw.githubusercontent.com/classerase/classerase/master/README.md -->
 

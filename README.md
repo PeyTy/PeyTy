@@ -5,4 +5,6 @@ How crazy is that?
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeyTy&show_icons=true&hide_border=true&theme=synthwave)
 
-<img title="Try to spot Amber :O" src="/embush.webp" width="50%" />
+<p align="center">
+<img title="Try to spot Amber :O" align="center" src="/embush.webp" width="55%" />
+</p>

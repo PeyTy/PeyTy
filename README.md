@@ -8,7 +8,7 @@ I've started my career as a game developer, but eventually decided that tools an
 Note that I'm mostly user-oriented (aka UX/UI). Join me to make the software that makes people around the world happy and their days less stressful!
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeyTy&show_icons=true&hide_border=true&theme=synthwave)
+<img title="GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=PeyTy&show_icons=true&hide_border=true&theme=synthwave" />
 </p>
 
 <p align="center">

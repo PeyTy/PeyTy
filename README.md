@@ -12,5 +12,6 @@ Note that I'm mostly user-oriented (aka UX/UI). Join me to make the software tha
 </p>
 
 <p align="center">
-<img title="Try to spot Amber :O" align="center" src="/embush.webp" width="55%" />
+<img title="Try to spot Amber :O" align="center" src="/embush.webp" width="49%" />
+<img title="Try to spot Bronya :O" align="center" src="/Bronya.webp" width="49%" />
 </p>

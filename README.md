@@ -1,4 +1,8 @@
-## Waiting for Skyrim 2 since 2012
+## _Miracle Worker!_
+
+Discord `miraculous.ladybugreport`
+
+Telegram [PeyTy](https://t.me/PeyTy)
 
 How crazy is that? My most advanced projects are:
 

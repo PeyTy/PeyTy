@@ -1,8 +1,6 @@
-## _Miracle Worker!_
-
-Discord `miraculous.ladybugreport`
-
-Telegram [PeyTy](https://t.me/PeyTy)
+<p align="center">
+<img title="Grass :O" align="center" src="/dive_in_grassss.webp" width="99%" />
+</p>
 
 How crazy is that? My most advanced projects are:
 

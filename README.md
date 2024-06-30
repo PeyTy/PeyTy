@@ -9,7 +9,7 @@ How crazy is that? My most advanced projects are:
 
 I've started my career as a game developer, but eventually decided that tools and environments matter a lot.
 
-Email secure communication: [unstubborn@proton.me](mailto:unstubborn@proton.me)
+Email for secure communication: [unstubborn@proton.me](mailto:unstubborn@proton.me)
 
 Note that I'm mostly user-oriented (aka UX/UI). Join me to make the software that makes people around the world happy and their days less stressful!
 

@@ -1,4 +1,8 @@
 <p align="center">
+<img title="Wow it's me :O" align="center" src="/meow.webp" width="99%" />
+</p>
+
+<p align="center">
 <img title="Grass :O" align="center" src="/dive_in_grassss.webp" width="99%" />
 </p>
 

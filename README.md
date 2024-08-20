@@ -19,7 +19,7 @@ I've started my career as a game developer, but eventually decided that tools an
 
 Email for secure communication: [unstubborn@proton.me](mailto:unstubborn@proton.me) [(PGP)](https://github.com/PeyTy/PeyTy/blob/meow/publickey.unstubborn%40proton.me-148c5a6a2b273aaf9e069677e6f2543b5a98a616.asc)
 
-Note that I'm mostly user-oriented (aka UX/UI). Join me to make the software that makes people around the world happy and their days less stressful!
+Note that I'm mostly user-oriented (aka care about UX/UI). Join me to make the software that makes people around the world happy and their days less stressful!
 
 <p align="center">
 <img title="Maybe someone's hiding there :O" align="center" src="/huge_green_thing.jpg" width="99%" />

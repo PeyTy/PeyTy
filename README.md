@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<img title="Closed-source software :E" align="center" src="/Closed-source%20software.webp" width="99%" />
+</p>
+
+<p align="center">
 <img title="Grass :O" align="center" src="/dive_in_grassss.webp" width="99%" />
 </p>
 

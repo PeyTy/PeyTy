@@ -29,3 +29,7 @@ Note that I'm mostly user-oriented (aka care about UX/UI). Join me to make the s
 <img title="Try to spot Amber :O" align="center" src="/embush.webp" width="49%" />
 <img title="Try to spot Bronya :O" align="center" src="/Bronya.webp" width="49%" />
 </p>
+
+<p align="center">
+<img title="Nice flower :O" align="center" src="/butifal.webp" width="69%" />
+</p>

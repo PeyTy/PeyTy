@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://gist.github.com/PeyTy">
 <img title="Wow it's me :O" align="center" src="/meow.webp" width="99%" />
+</a>
 </p>
 
 How crazy is that? My most advanced projects are:

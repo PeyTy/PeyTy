@@ -26,6 +26,10 @@ Note that I'm mostly user-oriented (aka care about UX/UI). Join me to make the s
 </p>
 
 <p align="center">
+ <img title="Where's mommy :O" align="center" src="/mommy.webp" width="77%" />
+</p>
+
+<p align="center">
  <img title="Try to spot Amber :O" align="center" src="/embush.webp" width="49%" />
  <img title="Try to spot Bronya :O" align="center" src="/Bronya.webp" width="49%" />
 </p>

@@ -11,7 +11,7 @@ How crazy is that? My most advanced projects are:
 
 I've started my career as a game developer, but eventually decided that tools and environments matter a lot.
 
-Direct communication channel: peyty@greenteaos.org or peyty@hexalang.org whichever you prefer. **Please prefer Discord or other IM if you just looking for a chat.**
+Direct communication channel: peyty@greenteaos.org or peyty@hexalang.org whichever you prefer. **Please reach me at Discord or other IM if you just looking for a chat.**
 
 Note that I'm mostly user-oriented (aka care about UX/UI). Join me to make the software that makes people around the world happy and their days less stressful!
 

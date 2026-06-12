@@ -8,8 +8,8 @@ My most advanced projects are:
 
 - <img title="mini icon" src="https://avatars.githubusercontent.com/u/19654552?s=200&v=4" width="16" /> **https://github.com/GreenteaOS** to become viable desktop alternative for you
 - <img title="mini icon" src="https://avatars.githubusercontent.com/u/19646737?s=200&v=4" width="16" /> **https://github.com/hexalang** language that I made to make programming fun and relaxed
-- <img title="mini icon" src="https://avatars.githubusercontent.com/u/19646737?s=200&v=4" width="16" /> **[Perfide](https://github.com/hexalang/Perfide)**  High-Performance IDE, Text and Code Editor
-- <img title="mini icon" src="https://avatars.githubusercontent.com/u/19646737?s=200&v=4" width="16" /> **[FileFleet](https://github.com/hexalang/FileFleet)** Command your Files
+- <img title="mini icon" src="https://avatars.githubusercontent.com/u/19646737?s=200&v=4" width="16" /> **[Perfide](https://github.com/hexalang/Perfide)**  [High-Performance IDE, Text and Code Editor](https://perfide.dev/)
+- <img title="mini icon" src="https://avatars.githubusercontent.com/u/19646737?s=200&v=4" width="16" /> **[FileFleet](https://github.com/hexalang/FileFleet)** [Command your Files](https://filefleet.app/)
 
 I've started my career as a game developer, but eventually decided that tools and environments matter a lot.
 
